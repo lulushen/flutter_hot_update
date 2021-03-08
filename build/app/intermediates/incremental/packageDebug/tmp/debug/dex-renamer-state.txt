@@ -1,0 +1,4 @@
+#Sat Mar 06 18:15:06 CST 2021
+base.0=/Users/client/Desktop/flutter_hot_update/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
